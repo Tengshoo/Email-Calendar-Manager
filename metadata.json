@@ -1,0 +1,5 @@
+{
+  "name": "Email and Calendar Manager",
+  "description": "A minimalist, single-page web application for email and calendar management, featuring AI-powered summaries. This prototype uses mock data to simulate email and event handling, showcasing a clean, responsive, dark-mode interface built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
